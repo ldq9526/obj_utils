@@ -1,6 +1,5 @@
 from obj_data import ObjData
 import sys
-import os
 import os.path as osp
 
 if __name__ == '__main__':
